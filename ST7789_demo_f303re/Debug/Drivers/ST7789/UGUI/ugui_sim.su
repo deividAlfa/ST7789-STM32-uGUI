@@ -1,0 +1,4 @@
+../Drivers/ST7789/UGUI/ugui_sim.c:41:11:GUI_SimCfg	8	static
+../Drivers/ST7789/UGUI/ugui_sim.c:60:6:GUI_Setup	32	static
+../Drivers/ST7789/UGUI/ugui_sim.c:180:6:GUI_Process	8	static
+../Drivers/ST7789/UGUI/ugui_sim.c:185:6:windowHandler	24	static

@@ -1,0 +1,7 @@
+../Core/Src/main.c:71:5:main	8	static
+../Core/Src/main.c:129:6:SystemClock_Config	160	static
+../Core/Src/main.c:176:13:MX_SPI2_Init	8	static
+../Core/Src/main.c:216:13:MX_USART2_UART_Init	8	static
+../Core/Src/main.c:249:13:MX_DMA_Init	16	static
+../Core/Src/main.c:267:13:MX_GPIO_Init	48	static
+../Core/Src/main.c:303:6:Error_Handler	4	static,ignoring_inline_asm
